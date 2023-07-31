@@ -15,7 +15,7 @@ public class SwitchExecutor {
 		    case "Second":
 		    	System.out.println("Oo Antava");
 		    	break;
-		    case "Thrid":
+		    case "Third":
 		    	System.out.println("Taki");
 		    	break;
 		    default:
